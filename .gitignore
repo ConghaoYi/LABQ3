@@ -1,0 +1,8 @@
+runs
+__pycache__
+*.png
+test/*
+!test/data
+*.ipynb
+.pytest_cache
+.DS_Store
