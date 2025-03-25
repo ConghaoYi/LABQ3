@@ -1,4 +1,6 @@
 # LABQ3
+**Related publication:** Conghao Yi, Catherine A. Peters*, Viktor Nikitin, Sang Soo Lee, Paul Fenter. LABQ3: Bayesian method for quantification of mineral compositions and nano-scale elemental mapping of 3D synchrotron XCT data. Computers & Geosciences. 2025.
+
 **Description:** **L**inear **A**ttenuation **B**ayesian **Q**uantitative **3**D-mapper (**LABQ3**) is a method for quantifying the chemical composition of XCT data. It takes the measured attenuation coefficient ($\mu$) from XCT scans as the input. Using the data from mineral standards as references, LABQ3 quantifies the input data via Bayesian decision theory along a continuous compositional spectrum. 
 
 # Dependencies
